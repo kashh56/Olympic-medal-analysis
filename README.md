@@ -49,6 +49,7 @@ jupyter notebook main.ipynb
 *   **Pandas** for data manipulation
 *   **Plotly / Seaborn** for data visualization 📊
 *   **GeoPandas** for geospatial analysis 🌍
+*   **Sql** for writing queries and data retrieval
 
 
 
