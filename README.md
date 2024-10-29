@@ -38,6 +38,7 @@ jupyter notebook main.ipynb
 *   **Geospatial Data**: Country shapefiles to map Olympic host nations.
 *   **Images**: Visuals and charts to support the analysis.
 *   **summary and recommendations**:Powerpoint containing key findings and a summary file.
+*   **Pbix file**: Interactive Power bi Dashboard on the data.
 
 * * *
 
